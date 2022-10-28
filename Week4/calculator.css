@@ -1,0 +1,30 @@
+body{
+    background-color: darkorange;
+}
+#answer, #answer1, #answer2, #answer3{
+    font-size: xx-large;
+    width: 250px;
+    height: 70px;
+    color: darkblue;
+    padding: auto;
+    
+    margin: 50px;
+
+}
+#num1, #num2, #num3, #num4, #num5, #num6, #num7, #num8{
+    font-size: xx-large;
+    width: 250px;
+    height: 70px;
+    border: 5px solid red;
+    padding: auto;
+    margin: 50px;
+}
+#add, #sub, #mul, #div{
+    font-size: xx-large;
+    width: 250px;
+    height: 70px;
+    border: 5px solid black;
+    padding: auto;
+    margin: 50px;
+
+}
